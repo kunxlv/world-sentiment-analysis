@@ -11,9 +11,11 @@ Also, the dataset is updated with the data of the previous month, every month by
 
 ## Data Cleaning and Processing
 ***What did you need to do to prepare the dataset(s) to create your graph/chart?***
+
 After I collected the data, it was present in 4 tables according to the months. The dataset had a lot of null entries which were causing an issue for plotting the charts. I cleaned the dataset: removed all the null entries from the location column, combined the four CSV files into a single file, and grouped them by the month.
 
 ***How did you choose the attributes and data subset to visualize?***
+
 The dataset consisted of the following attributes: created_at, file_name, followers, friends, group_name, location, retweet_count, screen name, search_query, text, twitter_id, username, polarity, partition_0, partition_1. A lot of the attributes were not needed for the visualization. The final data used for the exploration and visualization is as follows
 * The Country can be derived from the **group_name** field.
 * The Date at which the tweet was created can be got from the **created_at** field.
