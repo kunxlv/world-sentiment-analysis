@@ -77,11 +77,8 @@ For the Top 10 bar charts, I wanted to add add another colour to distinguish bet
 ## References
 [1] [Twitter Sentiment by Country Dataset](https://www.kaggle.com/wjia26/twittersentimentbycountry)
 
-[2] For data exploration and bar charts, matplotlib was used with the reference to 
-https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
+[2] For data exploration and bar charts, matplotlib was used with the reference to https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
 
-[3] For designing and creating a map chart, I referred to 
-https://www.tableau.com/learn/articles/interactive-map-and-data-visualization-examples
+[3] For designing and creating a map chart, I referred to https://www.tableau.com/learn/articles/interactive-map-and-data-visualization-examples
 
-[4] Designing better charts and dashboards using
- https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm
+[4] Designing better charts and dashboards using https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm
