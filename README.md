@@ -76,6 +76,7 @@ For the Top 10 bar charts, I wanted to add add another colour to distinguish bet
 
 ## References
 [1] [Twitter Sentiment by Country Dataset](https://www.kaggle.com/wjia26/twittersentimentbycountry)
+
 [2] For data exploration and bar charts, matplotlib was used with the reference to 
 https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
 
