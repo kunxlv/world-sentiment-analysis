@@ -26,13 +26,13 @@ The dataset consisted of the following attributes: created_at, file_name, follow
 ## Data Exploration
 For exploration, I thought of checking the data by country. I checked the sentiment for China as it was in a bad light in 2020 due to the pandemic. We can see a gradual increase in the sentiment score as we move to the end of 2020.
 
-<img src="CanadaSentimentAnalysis.jpg"
+<img src="ChinaSentimentAnalysis.jpg"
      alt="App screenshot"
      style="float: center; margin-right: 10px;" />
 
 Similarly, here is the sentiment score analysis for Canada and Iran as they are the most positive and negative countries sentiment-wise.
 
-<img src="ChinaSentimentAnalysis.jpg"
+<img src="CanadaSentimentAnalysis.jpg"
      alt="App screenshot"
      style="float: left; margin-right: 10px;" /> <img src="IranSentimentAnalysis.jpg"
      alt="App screenshot"
